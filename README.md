@@ -1,40 +1,49 @@
-<<<<<<< HEAD
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 💸 PaisaMate – Full-Stack Expense Tracker App
 
-## Getting Started
+Welcome to **PaisaMate**, a beginner-friendly full-stack expense tracker built using **Next.js**, **React**, **Tailwind CSS**, and **Drizzle ORM**! 🚀
 
-First, run the development server:
+Whether you're new to web development or looking to expand your full-stack skills, this project will guide you through building and deploying a real-world expense tracking application — step-by-step.
+
+---
+
+## 🧰 Tech Stack
+
+- **Next.js 14** – Full-stack React Framework
+- **React** – Component-based UI
+- **Tailwind CSS** – Utility-first CSS framework
+- **Drizzle ORM** – Type-safe and lightweight database ORM
+- **PostgreSQL** – Relational Database (can be local or cloud-hosted)
+- **Vercel** – Deployment platform (for frontend + API)
+
+---
+
+## ✨ Features
+
+- Add, view, and delete expenses
+- Track income vs. expenses by category
+- Responsive UI for mobile and desktop
+- Clean code structure and component-based design
+- Drizzle ORM integration with PostgreSQL
+- Easy-to-deploy full-stack setup
+
+---
+
+## 📸 Preview
+<img width="1908" height="913" alt="image" src="https://github.com/user-attachments/assets/50c3fd2d-59a4-49a7-8e50-1cb63701aca1" />
+<img width="1880" height="846" alt="image" src="https://github.com/user-attachments/assets/e426bfe2-3ca8-49ce-9cca-13f5d4f7a494" />
+<img width="1651" height="705" alt="image" src="https://github.com/user-attachments/assets/55e0e16d-65e7-4bee-97c4-29335c006c35" />
+
+
+
+
+
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone the Repository
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
-=======
-# PaisaMate-Personal-Expense-Tracker
->>>>>>> 89e5325b5b6d8a30ef8427a62e30beae7bee9085
+git clone https://github.com/SwethasriS/PaisaMate-Personal-Expense-Tracker.git
+cd PaisaMate-Personal-Expense-Tracker
